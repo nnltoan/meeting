@@ -6,4 +6,4 @@ Includes the following functions
 - Video call
 - Chat room
 - many to many connect
-![meetingroom1](https://user-images.githubusercontent.com/69796183/128965077-80b0febb-305b-4bc9-91f9-a412a03c780b.png)
+![meetingroom1](https://user-images.githubusercontent.com/69796183/128965371-ee93e5f7-2b3b-452e-90b7-c207fa7fefac.png)
