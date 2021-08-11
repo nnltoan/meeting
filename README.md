@@ -1,3 +1,8 @@
-# Zoom-Clone-With-WebRTC
-### This is a working zoom but as basic , no additional functionality is added besides normal video calling in rooms.
-### You could use the default id provided in the adress bar or you can use custom id by entring after the website address [Zoom-Clone-Link](https://zoom-clone123.herokuapp.com/custom-id-here "Zoom-Clone")
+# Meeting-webapp-With-WebRTC
+### customize from [Zoom-Clone-Link](https://zoom-clone123.herokuapp.com/custom-id-here "Zoom-Clone")
+Includes the following functions
+- Join to private room
+- Join to default room
+- Video call
+- Chat room
+- many to many connect
