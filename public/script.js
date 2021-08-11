@@ -9,11 +9,11 @@ const myPeer = new Peer(peerId, {
       {
         urls:
           [
-            "turn:lsisever.tk:3478?transport=udp",
-            "turn:lsisever.tk:3478?transport=tcp",
+            "turn:******.tk:3478?transport=udp",
+            "turn:******.tk:3478?transport=tcp",
           ],
-        credential: 'hiroshima2021',
-        username: 'lsimeet'
+        credential: '******',
+        username: '******'
       }
 
       // { //https://gist.github.com/yetithefoot/7592580
